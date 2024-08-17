@@ -1,0 +1,14 @@
+Apa itu Framework?
+Framework adalah kerangka kerja yang menyediakan struktur dasar dan alat-alat yang diperlukan untuk pengembangan aplikasi. Framework membantu pengembang dengan menyediakan komponen-komponen yang sudah jadi dan fungsi-fungsi yang sering digunakan, sehingga mempermudah dan mempercepat proses pengembangan. Dengan framework, pengembang tidak perlu membangun aplikasi dari nol, karena framework sudah menyediakan berbagai elemen dasar seperti pengaturan routing, pengelolaan database, dan keamanan. Framework juga biasanya mengikuti pola desain tertentu, seperti Model-View-Controller (MVC), yang membantu dalam mengorganisir kode secara lebih terstruktur dan mudah dipelihara.
+
+Apa itu Laravel?
+Laravel adalah salah satu framework PHP yang paling populer dan banyak digunakan. Laravel dirancang untuk membuat pengembangan aplikasi web menjadi lebih mudah dan lebih cepat, dengan sintaks yang bersih dan elegan. Laravel mengikuti arsitektur MVC (Model-View-Controller), yang memisahkan logika aplikasi, tampilan, dan kontroler, sehingga memudahkan dalam pengelolaan kode.
+
+Beberapa fitur utama Laravel meliputi:
+
+Eloquent ORM: Sebuah ORM (Object-Relational Mapping) yang kuat dan mudah digunakan, yang mempermudah interaksi dengan database.
+Blade Templating Engine: Sistem templating yang sederhana namun kuat, yang memungkinkan pengembang untuk membangun tampilan dengan cara yang lebih terstruktur.
+Routing yang Fleksibel: Laravel menyediakan sistem routing yang mudah dikonfigurasi, yang memungkinkan pengembang untuk menentukan rute yang berbeda untuk aplikasi mereka.
+Migrations: Alat yang memungkinkan pengembang untuk mengelola skema database dengan mudah, sehingga perubahan pada struktur database bisa dilakukan secara terstruktur dan terkontrol.
+Artisan Console: Sebuah alat command-line yang kuat untuk mengotomatisasi tugas-tugas umum dalam pengembangan aplikasi, seperti membuat model, kontroler, atau seeding database.
+Laravel juga memiliki ekosistem yang besar dengan banyak paket dan komunitas yang aktif, yang membuatnya menjadi pilihan populer bagi pengembang web modern. Dengan Laravel, pengembang dapat membangun aplikasi web yang kompleks dengan cepat, tanpa mengorbankan kualitas dan keamanan.
